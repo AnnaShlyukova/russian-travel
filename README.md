@@ -18,4 +18,3 @@
 **Ссылка на мой проект**
 
 * [Ссылка на проект](https://annashlyukova.github.io/russian-travel/index.html)
-
