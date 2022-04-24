@@ -8,10 +8,7 @@
   justify-content: center;
   max-width: 100%;
   min-height: 740px;
-  background: url(../../../image/cover-trains.jpg);
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: no-repeat center/contain url(../../../image/cover-trains.jpg);
 }
 .cover__link::before {
   content: '';

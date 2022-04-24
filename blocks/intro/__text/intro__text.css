@@ -10,7 +10,7 @@
 
 @media screen and (min-width: 319px) and (max-width: 767px){
   .intro__text  {
-  max-width: 288px;
+  max-width: calc(288px + (720 - 288) * ( (100vw - 320px) / (768 - 320) ));
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
